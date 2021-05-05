@@ -7,3 +7,4 @@ The devil is in the detail.
 - [210421](./studies/study210421.md)
 - [210425](./studies/study210425.md)
 - [210429](./studies/study210429.md)
+- [210504](./studies/study210504.md)
